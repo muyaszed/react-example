@@ -8,3 +8,4 @@
 - [x] Have a dropdown menu that can filter which `items` are being shown by `status`.
 - [x] Have a loding page when fetching data
 - [x] Have a error page when fetching failed
+- [ ] Able to export `Items` into CSV
